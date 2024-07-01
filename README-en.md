@@ -30,7 +30,7 @@ A simple and efficient web tool for comparing used book buyback prices between A
 
 ## Demo
 
-[Live Demo](https://used-book-buyback-price-search.pages.dev/used_book_buyback_price_search)
+[Live Demo](https://used-book-buyback-price-search.pages.dev/)
 ## Installation
 
 This project is a static HTML page, so installation is straightforward:
