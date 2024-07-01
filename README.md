@@ -30,7 +30,7 @@
 
 ## 데모
 
-[라이브 데모](https://used-book-buyback-price-search.pages.dev/used_book_buyback_price_search)
+[라이브 데모](https://used-book-buyback-price-search.pages.dev/)
 
 ## 설치
 
